@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  font-family:Arial, Helvetica, sans-serif;
+}
+body {
+  margin: 0;
+  background-color: #dcdcdc;
+}
+
+.container {
+  width: 914px;
+  height: 100%;
+}
+
+:link {
+  text-decoration: none;
+}
+
+a:active.a:visited.a {
+  color: #ffffff;
+}
+
+
+

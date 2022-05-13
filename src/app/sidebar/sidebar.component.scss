@@ -1,0 +1,34 @@
+.dashboardOptionsContainer {
+width: 200px;
+}
+
+.dashboardOptionsWrapper {
+  width: 200px;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+.dashboardOptions {
+  // margin: 15px;
+  width: 100%;
+
+}
+
+.dashCategory {
+  // height: 50px;
+  // padding-left: 25px;
+  // padding-top: 5px;
+  padding: 19px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;}
+
+
+
+  a:-webkit-any-link {
+    color: #000000;
+    font-size: 25px;
+
+  }

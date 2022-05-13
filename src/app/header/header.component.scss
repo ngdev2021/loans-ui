@@ -1,0 +1,62 @@
+.topNav_container {
+width: 100%;
+height: 75px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: rgb(6, 6, 89);
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.topNavWrapper {
+  width: 100%;
+}
+
+.topNav {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+
+color: white;
+font-size: 20px;
+}
+
+.icon {
+  margin: 15px;
+
+
+}
+
+.appName {
+  margin: 15px;
+
+}
+
+.userdropdown {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.userdropdownWrapper {
+  width: 70px;
+  height: 70px;
+  border: 1px solid blanchedalmond;
+  border-radius: 50%;
+  margin-right: 55px;
+  margin-left: auto;
+}
+
+.hamburgerIcon {
+  height: 24px;
+  width: 24px;
+  color: white
+}
+
+.profile_initials {
+  margin: 0;
+  position: absolute;
+  top: 28px;
+  right: 78px;
+  -ms-transform: translateY(-10%);
+  transform: translateY(-10%);
+}

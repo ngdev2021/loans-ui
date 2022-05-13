@@ -1,0 +1,8 @@
+
+<div class="dashboardOptionsContainer">
+  <div class="dashboardOptionsWrapper">
+    <div class="dashboardOptions" >
+       <div *ngFor="let dash of dashboardOptions" class="dashCategory" ><a [routerLink]="dash.route">{{dash.name}}</a></div>
+  </div>
+  </div>
+</div>
